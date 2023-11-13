@@ -1,0 +1,5 @@
+{
+    "name": "Translations",
+    "link": "/apps/translations",
+    "provider": "/src/ServiceProvider.pm"
+}
